@@ -4,7 +4,7 @@ hehe, enjoy
 1,soulgold
 -I've caught almost all the legendary Pokémon; some were too difficult for me, but I'll be able to catch them all in the future.
 -32 cafe point and >200000 poke dollars.
--Having completed the main storyline and defeated the e4-champion for the second time, you will see legendary Pokémon respawn when you play.
+-completed the main storyline and defeating the Elite Four Champion for the second time, the Legendary Pokémon reappears during gameplay.
 .....
 2,heart&soul
 complete johto but kanto is not
